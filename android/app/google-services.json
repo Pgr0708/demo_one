@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873452689605",
+    "project_id": "signingdemo-bf39a",
+    "storage_bucket": "signingdemo-bf39a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873452689605:android:bbbf992682d77eff7338ac",
+        "android_client_info": {
+          "package_name": "com.example.demo1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6_0jRTAFaCTHAIRq-1PGBTuZL8WRn348"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
